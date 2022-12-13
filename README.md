@@ -125,7 +125,3 @@ Use the CLI command below to open up your deployed app in your default browser.
 ```
 heroku open
 ```
-
-#### Voila!
-
-Your fullstack NX Workspace app is [now deployed and running on Heroku](https://thawing-brushlands-09373.herokuapp.com/).
